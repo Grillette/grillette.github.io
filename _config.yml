@@ -17,7 +17,7 @@ title: Grillette's blog
 email: grillette@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a french student in computer science and interrested in Cyber Security.
-  This blog is meant to publish some CTF write-up and various article IT related.
+  This blog is meant to publish some CTF write-up and various IT related article.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 0xGrillette
