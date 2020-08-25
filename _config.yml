@@ -14,6 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Grillette's blog
+
+
+collections:
+  category:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
+show_excerpts: true
+excerpt_separator: "<!--excerpt-->"
+
+
 email: grillette@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a french student in computer science and interrested in Cyber Security.

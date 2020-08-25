@@ -2,12 +2,17 @@
 layout: post
 title:  "INShAck - Write up"
 date:   2019-05-18 15:04:12 +0200
-categories: Write up
 author: Grillette
+
+
+categories: 
+    - "CTF-Writeup"
 ---
-  This article will present write-up of some challenges I've managed to flag during the INShAck CTF that was held from 05/02 to 05/05.
+This article will present write-up of some challenges I've managed to flag during the INShAck CTF that was held from 05/02 to 05/05.
 
 ![Logo]({{ "assets/2019-05-18/LogoInshack.png" | absolute_url }} "Logo")
+
+<!--excerpt-->
 
 ## Atchap - Web
 ### Challenge description

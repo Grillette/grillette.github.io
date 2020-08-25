@@ -2,13 +2,18 @@
 layout: post
 title:  "HSCTF - Write up"
 date:   2019-06-19 15:04:12
-categories: Write up
 author: Grillette
+
+categories:
+    - "CTF-Writeup"
 ---
   Today's article will present some of the interesting challenges we have managed to solve during this year edition of the HSCTF.
   We were two for this CTF and get to the 84th place and we were pretty happy of that performance, could have been even better but not enough time to invest in it sadly.
 
+
 ![LogoHSCTF]({{ "assets/2019-06-19/LogoHSCTF.png" | absolute_url }} "LogoHSCTF")
+
+<!--excerpt-->
 
 # Forensic
 ## Cool Image 2

@@ -2,11 +2,15 @@
 layout: post
 title:  "SigSegV2 - Write up"
 date:   2019-11-30 15:04:12
-categories: Write up
 author: Grillette
+
+categories:
+    - "CTF-Writeup"
 ---
 Last Week-end I attended SigSegV2 which is a french cybersecurity event with conferences all day and a CTF on site at night. There was a qualification phase where you had to succeed, at least one of the five challenges to be allowed to buy a ticket.
 This article is a write up about some challenges I managed to flag during the event or even after. The event was really great, but I didn't stay late during the night so I didn't flagged a lot but that's something.
+
+ <!--excerpt-->
 
 ![Logo]({{ "assets/2019-11-30/logo.png" | absolute_url }} "Logo")
 
