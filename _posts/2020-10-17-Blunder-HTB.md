@@ -16,7 +16,7 @@ This box was about :
 - Enumeration on the server to find a user hashed password and retrieve the cleartext to log in as **hugo**
 - Exploitation of a missconfiguration of the sudo right to get a root shell.
 
-![Box Logo]({{ "assets/Blunder/blunder.png" | absolute_url }} "Box Logo")
+![Box Logo]({{ "assets/Blunder/blunderLogo.png" | absolute_url }} "Box Logo")
 
 <!--excerpt-->
 
