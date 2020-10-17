@@ -13,7 +13,7 @@ This box was about :
 - Fuzzing the website to find a TODO list indicating the CMS is not up to date
 - Generating a list of password and brute force the authentication in order to find some valid credentials
 - Performing a RCE on the server as an authenticated user to have a reverse shell
-- Enumeration on the server to find a user hashed password and retrieve the cleartext to log in as**hugo**
+- Enumeration on the server to find a user hashed password and retrieve the cleartext to log in as **hugo**
 - Exploitation of a missconfiguration of the sudo right to get a root shell.
 
 ![Box Logo]({{ "assets/Blunder/blunder.png" | absolute_url }} "Box Logo")
